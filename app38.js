@@ -5,7 +5,7 @@
  */
  var multiply = function(num1, num2) {
     result = parseInt(num1) * parseInt(num2)
-    return [result.toString()];
+    return result.toString();
 };
 
 console.log(multiply("2", "3"));

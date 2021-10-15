@@ -16,7 +16,7 @@
     let sum = 0;
     
     let current = new ListNode(0)
-    let result = current;
+    let result = current; 
     
     while(l1 || l2) {
         if (l1) {
